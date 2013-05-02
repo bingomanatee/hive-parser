@@ -1,0 +1,32 @@
+{
+  "name": "hive-parser",
+  "version": "0.0.1",
+  "description": "A JSON crawler that parses a JSON tree and responds to content patterns",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "gate": "~0.3.0",
+    "hive-component": "~0.0.1a",
+    "q": "~0.9.3",
+    "underscore": "~1.4.4"
+  },
+  "devDependencies": {
+    "tap": "~0.4.2"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bingomanatee/hive-parser"
+  },
+  "keywords": [
+    "JSON",
+    "node.js",
+    "hive"
+  ],
+  "author": "Dave Edelhart",
+  "license": "BSD"
+}
