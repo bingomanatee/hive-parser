@@ -1,6 +1,6 @@
 {
   "name": "hive-parser",
-  "version": "0.0.1",
+  "version": "0.0.1a",
   "description": "A JSON crawler that parses a JSON tree and responds to content patterns",
   "main": "index.js",
   "directories": {
